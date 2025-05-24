@@ -1,4 +1,5 @@
-# Altruist QA UI Automation Test
+# Altruist UI Automation Exercise
+
 
 ## Note
 
